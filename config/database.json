@@ -1,0 +1,14 @@
+{
+    "development": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "root",
+        "database": "education"
+    },
+    "production": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "root",
+        "database": "education"
+    }
+}

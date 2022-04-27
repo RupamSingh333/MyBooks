@@ -1,0 +1,24 @@
+{
+    "already_exsists": "Book already exsists",
+    "user_already_exsists": "users already exsists",
+    "user_created": "User Created Successfully",
+    "insert_success_book": "Book inserted",
+    "insert_comment_success": "Comment inserted",
+    "delete_success": "Book Deleted",
+    "delete_fail": "Book  does not  exsists",
+    "book_success": "Book list",
+    "book_fail": "Books not found",
+
+    "internal_server_error": "Internal Sever error",
+
+    "search_success": "Book found",
+    "book_update": "Book Updated Successfully",
+    "search_not_found": "Book not found",
+
+    "user_already_exists":"User Already Exists",
+    "user_not_found":"User not found",
+    "insert_success_user": "User inserted Successfully",
+    "user_success": "Users list",
+    "login_success":"Login Success",
+    "user_login_fail":"Invalide Cridential"
+}

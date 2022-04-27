@@ -1,0 +1,7 @@
+{
+    "environment": "development",
+    "port": "3001",
+    "secretkey": "asdfghjklqwert12tyuyui"
+    
+}
+
